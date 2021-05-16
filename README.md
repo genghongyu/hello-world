@@ -19,3 +19,5 @@ branch1 has been modified2
 branch1 modified3
 
 branch1 modified4
+
+test4
